@@ -217,6 +217,9 @@ body {
     transition: all 2s 2s;
 }
 
+.cube:hover {
+    transform: rotateY(360deg);
+}
 
 @media screen and (max-width:740px) {
     .cube {
