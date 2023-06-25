@@ -166,7 +166,7 @@ body {
     position: absolute;
     width: 0;
     height: 0;
-    border-bottom: 4em solid #b68c4350;
+    border-bottom: 4em solid #b68c4320;
     border-right: 2em solid transparent;
     border-left: 2em solid transparent;
     transform-origin: 2em 0;
@@ -178,7 +178,7 @@ body {
     position: absolute;
     width: 0;
     height: 0;
-    border-bottom: 4em solid #b68c4350;
+    border-bottom: 4em solid #b68c4320;
     border-right: 2em solid transparent;
     border-left: 2em solid transparent;
     transform-origin: 2em 0;
@@ -190,7 +190,7 @@ body {
     position: absolute;
     width: 0;
     height: 0;
-    border-bottom: 4em solid #eab45650;
+    border-bottom: 4em solid #eab45620;
     border-right: 2em solid transparent;
     border-left: 2em solid transparent;
     transform-origin: 2em 0;
@@ -202,7 +202,7 @@ body {
     position: absolute;
     width: 0;
     height: 0;
-    border-bottom: 4em solid #eab45650;
+    border-bottom: 4em solid #eab45620;
     border-right: 2em solid transparent;
     border-left: 2em solid transparent;
     transform-origin: top;
